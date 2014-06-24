@@ -1,1 +1,0 @@
-python testAll.py testData/SHREC_2007_BOW_1000_viewBased_labelled.npy testData/SHREC_2007_BOW_100_shapeBased.npy testData/label.npy
