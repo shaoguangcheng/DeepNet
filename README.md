@@ -30,7 +30,8 @@ To use the toolbox, following steps are needed.
   ```
   
 (4) We provide some demo programs in this toolbox.
-  RBM and DBN demos
+> 
+  **RBM and DBN demos**
   ---------------
   For RBM and DBN demos, we use Mnist data, which has been contained in our toolbox. To run these demos, you should first uncompress the data in example/.
   ```python
@@ -47,7 +48,7 @@ To use the toolbox, following steps are needed.
   or
   python DBNdemo.py --help
   ```
-  Multi-modal demo
+  **Multi-modal demo**
   ---------------
   For multi-modal demo, we employ SHREC 2007 data to show the usage.  How the data is generated has been elaborated in paper  "Multi-modal Feature Fusion for 3D Shape Recognition and Retrieval". 
   To run this demo, change directory to multi-modal_demo/ and run 
