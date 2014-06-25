@@ -14,7 +14,7 @@ Requirements
 Usage 
 ============
 To use the toolbox, following steps are needed.
-  > 
+
 (1) compile the Cudamat library :
   ```python
   cd (directory to DeepNet)
@@ -29,8 +29,10 @@ To use the toolbox, following steps are needed.
   source set_env.sh
   ```
   
-(4) We provide some demo programs to this toolbox. For RBM and DBN demos, we use Mnist data. To run these demos, you should first 
-uncompress the data in example/.
+(4) We provide some demo programs in this toolbox.
+  RBM and DBN demos
+  ---------------
+  For RBM and DBN demos, we use Mnist data, which has been contained in our toolbox. To run these demos, you should first uncompress the data in example/.
   ```python
   cd example/
   tar -xzvf mnist_data.tar.gz
@@ -39,93 +41,24 @@ uncompress the data in example/.
   python DBNdemo.py
   ```
   
-  For any help information, run
+  For help information, run
   ```python
   python rbmDemo.py --help
   or
   python DBNdemo.py --help
   ```
-  
-  rbm demo usage ：
-  > 
-    Usage: rbmDemo.py [options] filenames
-  
-    Options:
-      --version             show program's version number and exit
-      -h, --help            show this help message and exit
-      -p TRAINPERCENT, --trainPercent=TRAINPERCENT
-                            Trainning data percentage
-      -e MAXEPOCH, --maxEpoch=MAXEPOCH
-                            Iteration number
-      -f FEATURE, --feature=FEATURE
-                            Feature file name
-      -l LABEL, --label=LABEL
-                            Label file name
-      -m MODEL, --model=MODEL
-                            DBN model file name
-      -b ISSAVERESULT, --verbose=ISSAVERESULT
-                            whether to save classification result or not
-      -n RESULTNAME, --name=RESULTNAME
-                            the file name of classification result, only works
-                            when -b is true
-   
-   DBN demo usage :
-   > 
-     Usage: DBNdemo.py [options] filenames
-  
-     Options:
-      --version             show program's version number and exit
-      -h, --help            show this help message and exit
-      -p TRAINPERCENT, --trainPercent=TRAINPERCENT
-                            Trainning data percentage
-      -e MAXEPOCH, --maxEpoch=MAXEPOCH
-                            Iteration number
-      -f FEATURE, --feature=FEATURE
-                            Feature file name
-      -l LABEL, --label=LABEL
-                            Label file name
-      -m MODEL, --model=MODEL
-                            DBN model file name
-      -b ISSAVERESULT, --verbose=ISSAVERESULT
-                            whether to save classification result or not
-      -n RESULTNAME, --name=RESULTNAME
-                            the file name of classification result, only works
-                            when -b is true
-                            
-  For multi-modal demo, we use data in our paper "Multi-modal Feature Fusion for 3D Shape Recognition and Retrieval". 
+  Multi-modal demo
+  ---------------
+  For multi-modal demo, we employ SHREC 2007 data to show the usage.  How the data is generated has been elaborated in paper  "Multi-modal Feature Fusion for 3D Shape Recognition and Retrieval". 
   To run this demo, change directory to multi-modal_demo/ and run 
   ```python
   python multiModalityDemo.py
   ```
     
-  multi-modal demo usage :
-  > 
-    Usage: multiModalityDemo.py [options] args
-
-    Options:
-      --version             show program's version number and exit
-      -h, --help            show this help message and exit
-      -p TRAINPERCENT, --trainPercent=TRAINPERCENT
-                              Trainning data percentage
-      -e MAXEPOCH, --maxEpoch=MAXEPOCH
-                              Iteration number
-      -v VIEWBASEDFEATURE, --viewBasedFeature=VIEWBASEDFEATURE
-                              Feature file name
-      -s SHAPEBASEDFEATURE, --shapeBasedFeature=SHAPEBASEDFEATURE
-                              Feature file name
-      -l LABEL, --label=LABEL
-                              Label file name
-      -m MODEL, --model=MODEL
-                              multi modality model file name to save
-      -b ISSAVERESULT, --verbose=ISSAVERESULT
-                              whether to save classification result or not
-      -n RESULTNAME, --name=RESULTNAME
-                              the file name of classification result, only works
-                              when -b is true
                               
 Platform 
 ===========
-This code is only test on Linux mint-16 64-bit.
+This code is only tested on Linux mint-16 64-bit.
 
 Contact 
 ===========
