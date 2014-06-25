@@ -20,6 +20,7 @@ To use the toolbox, following steps are needed.
   cd (directory to DeepNet)
   cd DeepNet/RBM/cudamat/
   Make (note : correct path to gcc-4.6 or below version compiler should be given in Makefile)
+  ```
 
 (2) change directory to RBM/, then set the DEEPNET_PATH variable in set_env.sh file to the RBM/ path in your computer
 
