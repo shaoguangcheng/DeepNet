@@ -8,16 +8,15 @@ code, our version improves the performance 4 times.
 
 Requirements 
 ============
-.NumPy (http://www.numpy.org/)
-> 
-.Cudamat (already included, https://github.com/cudamat/cudamat)
+* NumPy (http://www.numpy.org/)
+* Cudamat (already included, https://github.com/cudamat/cudamat)
 
 Usage 
 ============
 To use the toolbox, following steps are needed.
-> 
+  > 
 (1) compile the Cudamat library :
-  ```
+  ```python
   cd (directory to DeepNet)
   cd DeepNet/RBM/cudamat/
   Make （ note : correct path to gcc-4.6 or below version should be given in Makefile ）
@@ -26,27 +25,29 @@ To use the toolbox, following steps are needed.
 (2) change directory to RBM/, then set the DEEPNET_PATH variable in set_env.sh file to the RBM/ path in your computer
 
 (3) run command :
+  > 
   ```source set_env.sh```
   
 (4) We provide some demo programs to this toolbox. For RBM and DBN demos, we use Mnist data. To run these demos, you should first 
 uncompress the data in example/.
-  > 
-  ```
+  ```python
   cd example/
   tar -xzvf mnist_data.tar.gz
   python rbmDemo.py
   ```
   or
-  > 
-  ```python DBNdemo.py```
+  ```python
+  python DBNdemo.py
+  ```
   
   For any help information, run
-  > 
-  ```python rbmDemo.py --help```
-  > 
+  ``` python
+  python rbmDemo.py --help
+  ```
   or
-  > 
-  ```python DBNdemo.py --help```
+  ``` python
+  python DBNdemo.py --help
+  ```
   
   rbm demo usage ：
   > 
@@ -96,7 +97,9 @@ uncompress the data in example/.
                             
   For multi-modal demo, we use data in our paper "Multi-modal Feature Fusion for 3D Shape Recognition and Retrieval". 
   To run this demo, change directory to multi-modal_demo/ and run 
-  ```python multiModalityDemo.py```
+  ```python
+  python multiModalityDemo.py
+  ```
     
   multi-modal demo usage :
   > 
