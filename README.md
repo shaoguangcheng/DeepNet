@@ -25,8 +25,9 @@ To use the toolbox, following steps are needed.
 (2) change directory to RBM/, then set the DEEPNET_PATH variable in set_env.sh file to the RBM/ path in your computer
 
 (3) run command :
-  > 
-  ```source set_env.sh```
+  ```
+  source set_env.sh
+  ```
   
 (4) We provide some demo programs to this toolbox. For RBM and DBN demos, we use Mnist data. To run these demos, you should first 
 uncompress the data in example/.
@@ -34,18 +35,14 @@ uncompress the data in example/.
   cd example/
   tar -xzvf mnist_data.tar.gz
   python rbmDemo.py
-  ```
   or
-  ```python
   python DBNdemo.py
   ```
   
   For any help information, run
-  ``` python
+  ```python
   python rbmDemo.py --help
-  ```
   or
-  ``` python
   python DBNdemo.py --help
   ```
   
