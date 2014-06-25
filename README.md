@@ -1,8 +1,7 @@
 DeepNet
 ============
 
-In this project, I implement a deep learning toolbox (DeepNet) including RBM, DBN, Multi-modal DBN with Python， in which the majority of matrix 
-operations are carried on GPU by using the Cudamat to speed up the calculation process. There are some examples to show how to use this package.
+In this project, I implement a deep learning toolbox (DeepNet) including RBM, DBN, Multi-modal DBN with Python， in which the majority of matrix operations are carried on GPU by using the Cudamat to speed up the calculation process. There are some examples to show how to use this package.
 
 This project make some references to the matlab code in https://github.com/dmus/API-Project. However, in comparison with the matlab
 code, our version improves the performance 4 times.
@@ -10,15 +9,19 @@ code, our version improves the performance 4 times.
 Requirements 
 ============
 .NumPy (http://www.numpy.org/)
+> 
 .Cudamat (already included, https://github.com/cudamat/cudamat)
 
 Usage 
 ============
 To use the toolbox, following steps are needed.
+> 
 (1) compile the Cudamat library :
+  ```
   cd (directory to DeepNet)
   cd DeepNet/RBM/cudamat/
   Make （ note : correct path to gcc-4.6 or below version should be given in Makefile ）
+  ```
 
 (2) change directory to RBM/, then set the DEEPNET_PATH variable in set_env.sh file to the RBM/ path in your computer
 
@@ -46,6 +49,7 @@ uncompress the data in example/.
   ```python DBNdemo.py --help```
   
   rbm demo usage ：
+  > 
     Usage: rbmDemo.py [options] filenames
   
     Options:
@@ -68,6 +72,7 @@ uncompress the data in example/.
                             when -b is true
    
    DBN demo usage :
+   > 
      Usage: DBNdemo.py [options] filenames
   
      Options:
@@ -94,6 +99,7 @@ uncompress the data in example/.
   ```python multiModalityDemo.py```
     
   multi-modal demo usage :
+  > 
     Usage: multiModalityDemo.py [options] args
 
     Options:
