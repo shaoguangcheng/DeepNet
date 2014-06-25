@@ -23,17 +23,27 @@ To use the toolbox, following steps are needed.
 (2) change directory to RBM/, then set the DEEPNET_PATH variable in set_env.sh file to the RBM/ path in your computer
 
 (3) run command :
-  source set_env.sh
+  ```source set_env.sh```
   
 (4) We provide some demo programs to this toolbox. For RBM and DBN demos, we use Mnist data. To run these demos, you should first 
 uncompress the data in example/.
+  > 
+  ```
   cd example/
-  tar -xzvf mnist_data.tar.gz 
+  tar -xzvf mnist_data.tar.gz
   python rbmDemo.py
+  ```
   or
-  python DBNdemo.py
+  > 
+  ```python DBNdemo.py```
   
-  For any help information, run python rbmDemo.py --help or python DBNdemo.py --help
+  For any help information, run
+  > 
+  ```python rbmDemo.py --help```
+  > 
+  or
+  > 
+  ```python DBNdemo.py --help```
   
   rbm demo usage ：
     Usage: rbmDemo.py [options] filenames
@@ -81,7 +91,7 @@ uncompress the data in example/.
                             
   For multi-modal demo, we use data in our paper "Multi-modal Feature Fusion for 3D Shape Recognition and Retrieval". 
   To run this demo, change directory to multi-modal_demo/ and run 
-  python multiModalityDemo.py
+  ```python multiModalityDemo.py```
     
   multi-modal demo usage :
     Usage: multiModalityDemo.py [options] args
@@ -109,7 +119,7 @@ uncompress the data in example/.
                               
 Platform 
 ===========
-This code is only test on Linux mint 16 64-bit.
+This code is only test on Linux mint-16 64-bit.
 
 Contact 
 ===========
