@@ -49,7 +49,7 @@ To use the toolbox, following steps are needed.
   ```
   **Multi-modal demo**
   ---------------
-  For multi-modal demo, we employ SHREC 2007 data to show the usage.  How the data is generated has been elaborated in paper  "Multi-modal Feature Fusion for 3D Shape Recognition and Retrieval". 
+  For multi-modal demo, we employ SHREC 2007 feature data to show the usage.  How the data is generated has been elaborated in paper  "Multi-modal Feature Fusion for 3D Shape Recognition and Retrieval". 
   To run this demo, change directory to multi-modal_demo/ and run 
   ```python
   python multiModalityDemo.py
