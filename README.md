@@ -4,7 +4,7 @@ DeepNet
 In this project, I implement a deep learning toolbox (DeepNet) including RBM, DBN, Multi-modal DBN with Python， in which the majority of matrix operations are carried on GPU by using the Cudamat to speed up the calculation process. There are some examples to show how to use this package.
 
 This project make some references to the matlab code in https://github.com/dmus/API-Project. However, in comparison with the matlab
-code, our version improves the performance 4 times.
+code, our version improves the performance 25 times (test on the Mnist data).
 
 Requirements 
 ============
