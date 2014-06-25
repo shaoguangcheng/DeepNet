@@ -30,7 +30,7 @@ To use the toolbox, following steps are needed.
   ```
   
 (4) We provide some demo programs in this toolbox.
-> 
+
   **RBM and DBN demos**
   ---------------
   For RBM and DBN demos, we use Mnist data, which has been contained in our toolbox. To run these demos, you should first uncompress the data in example/.
