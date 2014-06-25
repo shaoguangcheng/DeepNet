@@ -41,7 +41,6 @@ To use the toolbox, following steps are needed.
   or
   python DBNdemo.py
   ```
-  
   For help information, run
   ```python
   python rbmDemo.py --help
@@ -55,8 +54,11 @@ To use the toolbox, following steps are needed.
   ```python
   python multiModalityDemo.py
   ```
+  For help information, run
+  ```python
+  python multiModalityDemo.py --help
+  ```
     
-                              
 Platform 
 ===========
 This code is only tested on Linux mint-16 64-bit.
