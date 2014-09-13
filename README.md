@@ -65,7 +65,7 @@ This code is only tested on Linux mint-16 64-bit.
 
 Contact 
 ===========
-If you have any question about this code, please contact me directly.
+If you have any question about this code, please contact me directly.  
 E-mail : chengshaoguang1291@gmail.com
 
         
