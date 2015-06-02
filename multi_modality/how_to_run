@@ -1,0 +1,20 @@
+# run multi-modality DBN
+python runCR.py -a multi-modality -v data/shrec2007/SHREC_2007_BOW_1000_viewBased.npy -s data/shrec2007/SHREC_2007_BOW_100_shapeBased.npy -l data/shrec2007/label.npy -e 2000
+or
+python runCR.py --action multi-modality --viewBasedFeature data/shrec2007/SHREC_2007_BOW_1000_viewBased.npy --shapeBasedFeature data/shrec2007/SHREC_2007_BOW_100_shapeBased.npy --label data/shrec2007/label.npy --maxEpoch 2000
+
+# run DBN-view
+python runCR.py --action DBN_view --viewBasedFeature data/shrec2007/SHREC_2007_BOW_1000_viewBased.npy --label data/shrec2007/label.npy --maxEpoch 2000
+
+#run DBN-shape
+python runCR.py --action DBN_shape --shapeBasedFeature data/shrec2007/SHREC_2007_BOW_100_shapeBased.npy --label data/shrec2007/label.npy --maxEpoch 2000
+
+# run RBM-view
+python runCR.py --action rbm_view --viewBasedFeature data/shrec2007/SHREC_2007_BOW_1000_viewBased.npy --label data/shrec2007/label.npy --maxEpoch 2000 --nHid 1000
+
+# run RBM-shape
+python runCR.py --action rbm_shape --shapeBasedFeature data/shrec2007/SHREC_2007_BOW_100_shapeBased.npy --label data/shrec2007/label.npy --maxEpoch 2000 --nHid 1000
+
+# run multi-modality-dl
+python runCR-dl.py --action multi-modality --viewBasedFeature data/dl/dl_viewBsed_Bow_3000.npy --shapeBasedFeature data/dl/dl_shapeBased_Bow_3000.npy --label data/dl/Bow_3000_label.npy --maxEpoch 2000 --trainViewBasedFeature data/dl/dl_train_viewBased_BOW.npy --testViewBasedFeature data/dl/dl_test_viewBased_BOW.npy --trainShapeBasedFeature data/dl/dl_train_shapeBased_BOW.npy --testShapeBasedFeature data/dl/dl_test_shapeBased_BOW.npy --trainLabel data/dl/dl_train_BOW_label.npy --testLabel data/dl/dl_test_BOW_label.npy
+

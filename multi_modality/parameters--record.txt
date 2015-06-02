@@ -1,0 +1,16 @@
+---23:13:47, 2014-8-22---
+imageFilePath : /home/cheng/work_shop/code/multi_modality/data/viewFeatureData/xie_data/xie_data_viewListImage.txt
+nVocabulary   : 1000
+pathToSaveBOW : /home/cheng/work_shop/code/multi_modality/data/viewFeatureData/xie_data/xie_data
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:32:55, 2014-8-23---
+imageFilePath : /home/cheng/work_shop/code/multi_modality/data/viewFeatureData/xie_data/xie_data_viewListImage.txt
+nVocabulary   : 1000
+pathToSaveBOW : /home/cheng/work_shop/code/multi_modality/data/viewFeatureData/xie_data/xie_data
+method        : 0
+lambda        : 0.000100
+knn           : 5
+

@@ -1,0 +1,1048 @@
+---20:44:25, 2013-11-5---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 5
+method        : 2
+lambda        : 0.001000
+knn           : 2
+
+---20:45:0, 2013-11-5---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1000
+method        : 2
+lambda        : 0.000100
+knn           : 5
+
+---20:45:18, 2013-11-5---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1000
+method        : 2
+lambda        : 0.000100
+knn           : 5
+
+---10:23:22, 2013-11-6---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1000
+method        : 1
+lambda        : 100.000000
+knn           : 5
+
+---11:55:34, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---11:59:26, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 5
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:11:52, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 5
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:12:29, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 1.000000
+knn           : 2
+
+---12:13:3, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 1.000000
+knn           : 2
+
+---12:13:19, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:16:15, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:17:13, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:18:19, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:19:5, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:19:45, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:20:9, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:20:45, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:21:15, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:21:41, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:24:30, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:26:13, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:29:0, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:29:29, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:32:10, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:32:35, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:33:50, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:34:20, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:34:50, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:35:41, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:36:48, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:39:6, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:39:36, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:41:9, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:43:57, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:44:27, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:47:45, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:54:1, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:57:37, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---12:58:40, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:0:0, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:1:7, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:2:12, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:3:24, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:4:17, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:5:23, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:6:34, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:7:33, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:8:5, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:11:42, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:12:2, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:12:34, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 4
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:12:54, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 10
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:13:20, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 20
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:14:56, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 10
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:15:9, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 20
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---13:16:13, 2013-11-8---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1000
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---19:6:48, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 20
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---19:9:6, 2013-11-8---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1000
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---19:9:19, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 20
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---19:10:43, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 20
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---19:12:40, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 20
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---19:13:21, 2013-11-8---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1000
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---21:4:48, 2013-11-8---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 20
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---21:20:34, 2013-11-8---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1000
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---16:50:43, 2013-11-13---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---16:52:8, 2013-11-13---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---16:52:44, 2013-11-13---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---16:54:12, 2013-11-13---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---16:55:37, 2013-11-13---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---16:59:37, 2013-11-13---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---17:0:53, 2013-11-13---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---17:54:32, 2013-11-13---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 1
+lambda        : 0.000100
+knn           : 5
+
+---10:15:30, 2013-11-14---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:16:45, 2013-11-14---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:21:55, 2013-11-14---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:23:43, 2013-11-14---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:24:56, 2013-11-14---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:26:23, 2013-11-14---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---14:33:36, 2013-11-14---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---14:35:14, 2013-11-14---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---9:48:57, 2013-11-18---
+imageFilePath : featureData/PSB_depthImageList.txt
+nVocabulary   : 3000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---17:38:39, 2013-11-18---
+imageFilePath : featureData/PSB_depthImageList.txt
+nVocabulary   : 3000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---17:40:55, 2013-11-18---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---17:44:21, 2013-11-18---
+imageFilePath : featureData/testData.txt
+nVocabulary   : 3
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---17:45:39, 2013-11-18---
+imageFilePath : featureData/PSB_depthImageList.txt
+nVocabulary   : 3000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---9:30:43, 2013-11-19---
+imageFilePath : featureData/MSB_depthImageList.txt
+nVocabulary   : 1500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:6:48, 2013-11-19---
+imageFilePath : featureData/MSB_depthImageList.txt
+nVocabulary   : 1500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---17:7:51, 2013-11-19---
+imageFilePath : featureData/MSB_depthImageList.txt
+nVocabulary   : 1500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---9:58:59, 2013-11-21---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---18:56:25, 2013-11-21---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 750
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---21:2:9, 2013-11-21---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 1500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---22:55:45, 2013-11-21---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 2000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---9:49:42, 2013-11-22---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 250
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---15:42:37, 2013-11-27---
+imageFilePath : featureData/MSB_depthImageList.txt
+nVocabulary   : 1500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:21:30, 2013-11-27---
+imageFilePath : featureData/MSB_depthImageList.txt
+nVocabulary   : 1000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---18:43:35, 2013-11-27---
+imageFilePath : featureData/MSB_depthImageList.txt
+nVocabulary   : 1500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---21:30:30, 2013-11-30---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 2000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---22:55:22, 2013-11-30---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 2500
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---19:25:59, 2013-12-1---
+imageFilePath : featureData/SHREC_2007_depthImageList.txt
+nVocabulary   : 2000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:12:2, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 1000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:13:14, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 1000
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:13:24, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 1
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:15:40, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 1
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:15:52, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 1
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:16:22, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 10
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:17:50, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 10
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:19:25, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 10
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:19:37, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 10
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:20:6, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 10
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:20:9, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 10
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:21:4, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 10
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---23:24:49, 2014-4-28---
+imageFilePath : ../../data/viewFeatureData/McGill_viewImage.txt
+nVocabulary   : 10
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:27:51, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 10
+pathToSaveBOW : /home/cheng/work_shop/code/multi_modality/viewFeatrueExtract/extractFeatrue/ss
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:36:16, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 10
+pathToSaveBOW : /home/cheng/work_shop/code/multi_modality/viewFeatrueExtract/extractFeatrue/ss
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---10:53:39, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 10
+pathToSaveBOW : dd
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---11:11:3, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 10
+pathToSaveBOW : ss
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---11:46:50, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : ss
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---11:48:17, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---11:52:38, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---12:5:16, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---12:10:17, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---12:11:53, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---12:13:27, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---12:14:58, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---12:16:14, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---12:16:44, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---12:17:35, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---15:1:7, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---15:52:34, 2014-4-29---
+imageFilePath : McGill_viewImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---15:53:6, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : bb
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:34:38, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_train
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:37:28, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_test
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:46:16, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_test
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:46:27, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_train
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:48:46, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_test
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:53:9, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_test
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---16:54:51, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_test
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---17:32:12, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_test
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---17:50:24, 2014-4-29---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : dl_test
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---9:12:20, 2014-4-30---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : ss
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---9:18:39, 2014-4-30---
+imageFilePath : McGill_viewListImage.txt
+nVocabulary   : 5
+pathToSaveBOW : ss
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---9:28:21, 2014-4-30---
+imageFilePath : ../../data/viewFeatureData/SHREC_2007_viewListImage.txt
+nVocabulary   : 1000
+pathToSaveBOW : ../../data/viewFeatureData/SHREC_2007
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---11:39:14, 2014-4-30---
+imageFilePath : ../../data/viewFeatureData/SHREC_2007_viewListImage.txt
+nVocabulary   : 1000
+pathToSaveBOW : ../../data/viewFeatureData/SHREC_2007
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---17:14:36, 2014-4-30---
+imageFilePath : ../../data/viewFeatureData/SHREC_2007_viewListImage.txt
+nVocabulary   : 1000
+pathToSaveBOW : ../../data/viewFeatureData/SHREC_2007
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
+---13:31:27, 2014-5-2---
+imageFilePath : ../../data/viewFeatureData/dl_train_viewListImage.txt
+nVocabulary   : 1000
+pathToSaveBOW : ../../data/viewFeatureData/dl_train
+method        : 0
+lambda        : 0.000100
+knn           : 5
+
